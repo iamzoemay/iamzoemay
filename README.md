@@ -1,8 +1,7 @@
 - 👋 Hi! I’m Ntokozo 
 - 👀 I’m interested in Front End Development and excited to grow in the tech industry. 
-- 🌱 I’m currently learning JavaScript and about API. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React. 
+- 📫 You can reach me on iamzoemay@gmail.com 
 
 <!---
 iamzoemay/iamzoemay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
